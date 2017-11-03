@@ -16,6 +16,9 @@
 ### access
 http://ip/nexus
 
+## Usage
+
 ### default admin
 * admin/admin123
 
+### ldap config
